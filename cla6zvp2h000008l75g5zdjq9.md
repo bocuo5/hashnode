@@ -126,10 +126,10 @@ IMDb: tt4276994
 
 ![](https://s2.loli.net/2022/11/07/OU21PktuorL9Xhb.jpg)
 
-> 导演: [高鸣](https://movie.douban.com/celebrity/1412925/)
-> 上映日期: 2005(中国大陆)
-> 片长: 106分钟
-> IMDb: tt12061022
+> 导演: [高鸣](https://movie.douban.com/celebrity/1412925/)  
+> 上映日期: 2005(中国大陆)  
+> 片长: 106分钟  
+> IMDb: tt12061022  
 
 一个卖盗版碟的农村小伙子的故事，一个处处充满着对比反差的片子  
 主人公排骨文化程度不高，喜欢看马大帅和听两只蝴蝶  
