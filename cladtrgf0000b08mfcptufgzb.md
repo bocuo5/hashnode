@@ -1,4 +1,12 @@
-# 设计和人工智能，或许你该看看
+---
+title: "设计和人工智能，或许你该看看"
+datePublished: Sat Nov 12 2022 11:08:39 GMT+0000 (Coordinated Universal Time)
+cuid: cladtrgf0000b08mfcptufgzb
+slug: 6k66k6h5zkm5lq65bel5pm66io977ym5oiw6k645l2g6kl55yl55yl
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1668249997031/LHrYRzN2r.jpg
+tags: 5ocd6icd, 5lq65bel5pm66io9, 5pyq5p2l, 6k66k6h
+
+---
 
 ## 前言
 最近AI绘画很火，因为目前AI生成的作品，完成度已经相当高，其中不乏令人惊艳的作品，甚至有人拿AI生成的插画参加比赛并且获得一等奖。
